@@ -1,0 +1,11 @@
+html {
+        font-size: 30px;
+        font-style: italic;
+}
+body {
+        background-color: rgb(241, 123, 123);
+        color: rgb(78, 223, 248);
+}
+img {
+    border-radius: 50px;
+}
